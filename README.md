@@ -1,9 +1,12 @@
 # Data-Science-Sales-Project
 Practice with pandas and solving data science related problems
 
-## Tools used
+## Tools Used
 Project completed using Jupyter Notebook in Python
 The main libraries used were pandas and matplotlib
+
+## Data Source
+Artifical data source found on YouTube and expanded upon with this project
 
 ## Problems
 ### Problem 1:
